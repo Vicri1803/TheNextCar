@@ -7,3 +7,4 @@ Modul 3
 4. interface OnDoorChanged berfungsi untuk mengambil data berisi pesan dan value kemudian disimpan
 
 
+![alt text](https://github.com/Vicri1803/TheNextCar/blob/main/ClassDiagram1.png)
