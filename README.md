@@ -6,4 +6,4 @@ Modul 3
 3. model Door.cs berfungsi untuk menampilkan atau mengupdate status door open atau closed
 4. interface OnDoorChanged berfungsi untuk mengambil data berisi pesan dan value kemudian disimpan
 
-https://github.com/Vicri1803/TheNextCar/blob/main/ClassDiagram1.png?raw=true
+
